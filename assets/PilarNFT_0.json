@@ -1,0 +1,21 @@
+{
+    "tokenId": 0,
+    "name": "PilarNFT #0",
+    "description":	"Pilar is a playful German Shepherd dog",
+    "image": "TODO",
+    "external_url": "https://github.com/maghzcr7/PilarNFT",
+    "attributes": [
+        {
+            "trait_type": "race",
+            "value": "GERMAN SHEPERD"
+        },    
+    	{
+            "trait_type": "Head",
+            "value": "Brown and black"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "Brown"
+        }
+    ]
+}
